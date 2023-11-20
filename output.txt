@@ -1,0 +1,9 @@
+O fluxo máximo do grafo é 70
+O fluxo em cada aresta é:
+S -> A: 30
+A -> B: 30
+S -> C: 40
+C -> B: 0
+C -> D: 40
+B -> T: 30
+D -> T: 40
